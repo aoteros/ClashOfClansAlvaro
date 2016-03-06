@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtview_name" type="id">nom</item>
+    <item name="txtview_th" type="id">Th</item>
+    <item name="txtview_tropes" type="id">Tropes</item>
+    <item name="txtview_pocions" type="id">Pocions</item>
+    <item name="txtview_descripcio" type="id">Descripcio</item>
+</resources>

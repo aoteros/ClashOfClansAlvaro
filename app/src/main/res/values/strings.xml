@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClashOfClansAlvaro</string>
+    <string name="action_image">Imatge</string>
+    <string name="action_afegir">Afegir</string>
+    <string name="btnUploadImage">DESCARREGAR IMATGE</string>
+    <string name="action_delete">Delete</string>
+</resources>
